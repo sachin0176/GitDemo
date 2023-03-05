@@ -1,0 +1,2 @@
+hi, it is second demo
+I am practising git command

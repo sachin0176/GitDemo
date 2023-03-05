@@ -1,2 +1,0 @@
-Hi, I am practising git command 
-I am intrested in git
